@@ -20,7 +20,8 @@ Smart Resume Match is an AI-powered tool built for students, freshers, and job s
   - PDF Parsing: `PyMuPDF (fitz)`
   - Matching: `scikit-learn`, `re`
 ## 🗂️ Project Structure
-```smart-resume-match/
+```
+smart-resume-match/
 │
 ├── App.py                   # 🚀 Main Streamlit app entry point
 ├── AppHandler.py            # 🧠 Core logic: text extraction, skill match, education match
@@ -41,7 +42,7 @@ Smart Resume Match is an AI-powered tool built for students, freshers, and job s
 ├── .env                     # 🔐 Gemini API Key (ignored from GitHub)
 │
 └── README.md                # 📘 Project overview, instructions, and documentation```
-
+```
 ## ⚙️ Setup Instructions
 
 ```bash
@@ -49,6 +50,7 @@ git clone https://github.com/your-username/smart-resume-match.git
 cd smart-resume-match
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## 🔐 Environment Variables (`.env`)
 
