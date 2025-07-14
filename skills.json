@@ -1,0 +1,40 @@
+{
+  "Data Science": [
+    "Python", "Pandas", "Numpy", "Scikit-learn", "Matplotlib", "Seaborn",
+    "Statistics", "Machine Learning", "Deep Learning", "TensorFlow", "Keras",
+    "PyTorch", "Data Visualization", "SQL", "R", "Power BI", "Tableau",
+    "Data Mining", "Web Scraping", "Streamlit", "Flask"
+  ],
+  "Frontend Development": [
+    "HTML", "CSS", "JavaScript", "React", "Vue.js", "Bootstrap",
+    "Tailwind CSS", "Git", "GitHub", "Figma", "Responsive Design",
+    "REST API", "Jest", "Webpack", "UI/UX"
+  ],
+  "Backend Development": [
+    "Node.js", "Express.js", "MongoDB", "MySQL", "PostgreSQL", "REST API",
+    "GraphQL", "JWT", "Docker", "CI/CD", "Redis", "Nginx", "Flask", "Django",
+    "Cloud Functions", "Serverless", "AWS", "Azure"
+  ],
+  "Full Stack Development": [
+    "HTML", "CSS", "JavaScript", "React", "Node.js", "Express.js",
+    "MongoDB", "Git", "Docker", "CI/CD", "JWT", "Tailwind CSS",
+    "GraphQL", "REST API", "Nginx", "Python", "Flask", "SQL"
+  ],
+  "Android Development": [
+    "Java", "Kotlin", "Android SDK", "XML", "Firebase", "SQLite",
+    "Flutter", "Dart", "Retrofit", "Jetpack Compose", "Material Design"
+  ],
+  "iOS Development": [
+    "Swift", "SwiftUI", "Objective-C", "Xcode", "Cocoa Touch",
+    "Auto Layout", "Plist", "Core Data", "StoreKit", "AVFoundation"
+  ],
+  "UI/UX": [
+    "Figma", "Adobe XD", "Sketch", "Balsamiq", "Wireframing",
+    "Prototyping", "Design Systems", "User Research", "Storyboarding",
+    "Usability Testing", "Interaction Design", "Color Theory", "Typography"
+  ],
+  "Cloud/DevOps": [
+    "AWS", "Azure", "GCP", "Docker", "Kubernetes", "CI/CD", "Terraform",
+    "Ansible", "Linux", "Bash", "Monitoring", "Grafana", "Prometheus"
+  ]
+}
