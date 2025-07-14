@@ -40,7 +40,8 @@ Smart Resume Match is an AI-powered tool built for students, freshers, and job s
 │
 ├── .env                     # 🔐 Gemini API Key (ignored from GitHub)
 │
-└── README.md                # 📘 Project overview, instructions, and documentation
+└── README.md                # 📘 Project overview, instructions, and documentation```
+
 ## ⚙️ Setup Instructions
 
 ```bash
