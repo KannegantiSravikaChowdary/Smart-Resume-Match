@@ -46,10 +46,22 @@ smart-resume-match/
 ## ⚙️ Setup Instructions
 
 ```bash
+# Clone the repository
 git clone https://github.com/your-username/smart-resume-match.git
 cd smart-resume-match
+
+# (Optional but recommended) Create and activate a virtual environment
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+# Install required packages
 pip install -r requirements.txt
-streamlit run app.py
+
+# Run the application
+streamlit run App.py
 ```
 
 ## 🔐 Environment Variables (`.env`)
